@@ -23,6 +23,6 @@ that our users can update as soon as a fix is available.
 
 # Reporting a Vulnerability
 
-If you discover a security vulnerability in librenms please disclose it via [our huntr page](https://huntr.dev/repos/librenms/librenms/). Bounty eligibility, CVE assignment, response times and past reports are all there.
+If you discover a security vulnerability in librenms please disclose it via our [GitHub Security Advisories Page](https://github.com/librenms/librenms/security/advisories/new).
 
 Thank you for improving the security of librenms.
